@@ -4,10 +4,10 @@ set number            " Show line numbers
 set hlsearch          " Highligh all search results
 
 set autoindent        " Auto-indent new lines
-set shiftwidth=4      " Number of autoindent spaces
+set shiftwidth=2      " Number of autoindent spaces
 set smartindent       " Enable smart-indent
 set smarttab          " Enable smart-tabs
-set softtabstop=4     " Number of spaces per tab
+set softtabstop=2     " Number of spaces per tab
 
 " Advanced
 set ruler             " Show row and column ruler information
